@@ -1,0 +1,2 @@
+0. Repository aanmaken
+1. Folder structuur
